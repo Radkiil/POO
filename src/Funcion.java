@@ -9,5 +9,5 @@ public class Funcion {
     {
         return (short) (base*base*base);
     }
-    mmmm
+    mmmmm
 }
